@@ -1,4 +1,6 @@
-# Lindsay Forestell
+# AQM 2019
+
+This repo contains short projects, useful information and various tidbits collected throughout the AQM sessions.
 
 ## ToC
 
@@ -18,7 +20,7 @@
 
 ## Topics
 
-This repo contains problem set solutions, useful information and various tidbits collected throughout the AQM sessions. The main topics covered have been:
+The main topics covered have been:
 
 1. Exploratory Data Analysis and Visualization
     * Correlations
