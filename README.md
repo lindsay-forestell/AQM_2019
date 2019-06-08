@@ -1,4 +1,6 @@
-# Lindsay Forestell
+# AQM 2019
+
+This repo contains short projects, useful information and various tidbits collected throughout the AQM sessions.
 
 ## ToC
 
@@ -18,7 +20,7 @@
 
 ## Topics
 
-This repo contains problem set solutions, useful information and various tidbits collected throughout the AQM sessions. The main topics covered have been:
+The main topics covered have been:
 
 1. Exploratory Data Analysis and Visualization
     * Correlations
@@ -139,7 +141,7 @@ Contains all the datasets used in the problem sets. These include:
   * Used to test the DIY SVM Model
 * MiniBooNE_PID.txt
   * Classification project on data from the neutrino miniboone experiment.
-  * Used for the SVM and ensemble analysis.
+  * Used in PS4_Ensembles and DIY_SVM
 * data_banknote_authentication.txt
   * Banknote authentication data
   * Used in PS7_NN_Keras
